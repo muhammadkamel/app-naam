@@ -2698,7 +2698,8 @@ header {
 .h-bolder {
   background-color: #fff;
   text-align: center;
-  padding: 7px; }
+  padding: 7px;
+  border-top: 1px solid #eee; }
 
 .h-bolder h4 {
   margin: 0;
@@ -2950,8 +2951,13 @@ td span {
   position: relative;
   /* bottom: -100px; */ }
 
+.h-title h5 {
+  border-bottom: 2px solid #eee;
+  display: inline-block;
+  padding-bottom: 7px; }
+
 .sect-size p {
-  font-size: 20px; }
+  font-size: 16px; }
 
 /* Contatcs */
 .contacts {
