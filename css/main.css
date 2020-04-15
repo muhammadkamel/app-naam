@@ -2902,7 +2902,7 @@ td span {
 /* /Section One */
 /* Section Two */
 .scroll {
-  background-color: #fff;
+  background-color: transparent;
   height: 90px;
   margin-top: 0px;
   /* margin-bottom: 20px; */ }
